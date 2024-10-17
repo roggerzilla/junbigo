@@ -2998,7 +2998,7 @@ input.main-search-input:-ms-input-placeholder {
 
 @media (max-width: 767px) {
   .slider__img__box .slide-shape.img-four {
-    display: none;
+    
   }
 }
 
@@ -3009,7 +3009,7 @@ input.main-search-input:-ms-input-placeholder {
 
 @media (max-width: 767px) {
   .slider__img__box .slide-shape.img-five {
-    display: none;
+    
   }
 }
 
@@ -3069,7 +3069,7 @@ input.main-search-input:-ms-input-placeholder {
 
 @media (max-width: 767px) {
   .slider__img__box .slide-shape.img-eight {
-    display: none;
+  
   }
 }
 
