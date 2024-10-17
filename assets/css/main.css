@@ -3093,6 +3093,10 @@ input.main-search-input:-ms-input-placeholder {
   color: #FF723A;
 }
 
+.highlight-text2 span {
+  color: #FF723A;
+}
+
 .main-title {
   color: #1B212F;
   font-size: 56px;
